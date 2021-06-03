@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+}
+#Apps{
+    width:100%;
+    background:linear-gradient(#ffff00 0%,  #ff0066 100%)
+}
+img{
+    transition:transform .2s;
+}
+img:hover{
+    transform: scale(0.9);
+}
+#Games{
+    width:100%;
+    background: linear-gradient(#00ffff 0% , #ff0066 100%);
+}
+#Chatbot{
+    width:100%;
+    background: linear-gradient(#003399 0%, #ff9900 100%);
+}
+#Thunkable{
+    width:100%;
+    background: linear-gradient(#ff33cc 0%, #996600 100%);
+}
